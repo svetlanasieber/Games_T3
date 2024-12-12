@@ -1,0 +1,15 @@
+{
+  "name": "task_3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "test": "mocha"
+},
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2"
+  }
+}
